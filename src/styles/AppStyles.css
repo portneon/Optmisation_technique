@@ -1,0 +1,13 @@
+.app-container {
+  padding: 20px;
+}
+
+.item {
+  padding: 6px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.toggle-button {
+  margin-left: 10px;
+}
